@@ -1,0 +1,6 @@
+ANOTĀCIJA
+
+Šajā bakalaura darbā tiek veikta salīdzinoša analīze starp divām modernām attēlu stilizācijas metodēm — CycleGAN un difūzijas modeļiem, ar īpašu uzsvaru uz to pielietojumu attēlu pārveidošanai multiplikācijas stilā. 
+Darba teorētiskajā daļā tiek izpētītas abu pieeju arhitektūras, apmācības principi un praktiskās īpatnības. Praktiskajā daļā tiek realizēta attēlu stilizācija, izmantojot gan no nulles apmācītus CycleGAN modeļus, gan pielāgotus iepriekš apmācītus difūzijas modeļus ar tādām metodēm kā img2img, ControlNet un apgrieztās difūzijas metode. 
+Tiek veikti eksperimenti ar dažādām parametru konfigurācijām un stilizācijas pieejām, kā arī salīdzināta rezultātu kvalitāte, stila atbilstība, oriģinālā attēla konteksta saglabāšana un aprēķinu izmaksas. 
+Darbs sniedz padziļinātu ieskatu attēlu stilizācijas jomā un var kalpot kā vērtīgs resurss turpmākiem pētījumiem un praktiskiem risinājumiem, kas saistīti ar mākslīgā intelekta pielietošanu digitālajā mākslā.
